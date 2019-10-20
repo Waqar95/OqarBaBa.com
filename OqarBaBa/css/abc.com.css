@@ -1,0 +1,148 @@
+#header{
+    background-color: dimgray;
+
+
+}
+
+.companyName{
+    font-family: "Times New Roman";
+    font-size: 32px;
+    letter-spacing: 5px;
+    color: white;
+    margin-left: 530px;
+}
+
+#menu{
+    margin-left: 380px;
+    font-size: 18px;
+    letter-spacing: 5px;
+    border-spacing: px;
+    color: black;
+}
+
+
+.about{
+    font-size: 18px;
+    color: gray;
+    margin-left: 300px;
+}
+
+.personal{
+    color: gray;
+    font-size: 42px;
+}
+
+
+.contact{
+    margin-left: 400px;
+    font-size: 50px;
+    color: gray;
+}
+
+fieldset{
+    width: 600px;
+    margin-left: 180px;
+}
+
+#f_name{
+        margin-left: 20px;
+        height: 25px;
+        color: dimgray;
+}
+
+#l_name{
+    margin-left: 22px;
+    margin-top: 10px;
+    height: 25px;
+    color: dimgray;
+}
+
+#email{
+    margin-left: 52px;
+    margin-top: 10px;
+    height: 25px;
+    color: dimgray;
+}
+
+#mesg{
+    margin-left: 35px;
+    margin-top: 10px;
+
+}
+
+
+button{
+    margin-top: 10px;
+    margin-left: 457px;
+    width: 100px;
+    color: dimgray;
+    border: darkgray;
+}
+
+b{
+    color: dimgray;
+}
+
+.vertical_line{
+    border-left: solid;
+    margin-left:250px;
+}
+
+.html_css{
+    margin-top: 50px;
+    margin-left: 135px;
+
+
+
+}
+
+
+#php{
+    margin-left: 80px;
+
+
+}
+
+
+#bootsrap{
+    margin-left: 80px;
+
+}
+
+#wordpress{
+    margin-top: 50px;
+    margin-left: 220px;
+
+}
+
+#magento{
+    margin-left: 20px;
+
+
+}
+
+
+#ecom{
+    margin-top: 30px;
+    margin-left: 330px;
+
+
+}
+
+
+.footer{
+    margin-top: 10px;
+    height: 200px;
+    background: grey; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(grey, black); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(grey, whitesmoke); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(grey, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(grey, darkslategray);
+}
+
+#follow{
+    margin-top: 150px;
+}
+
+
+
